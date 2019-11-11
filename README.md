@@ -1,3 +1,9 @@
+##########UPDATE!!############
+
+The website of PGB is changed to https://pgbrowser.nebulagene.com/
+
+2019.11.11 L.J.
+
 ##############################
 
 Local Installation Instruction of Personal Genome Browser
