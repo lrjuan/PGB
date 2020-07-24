@@ -1,6 +1,6 @@
-UPDATE: The Personal Genome Browser service has been moved to https://pgbrowser.nebulagene.com/
+UPDATE: The Personal Genome Browser service has been moved to http://bioinformatics.hit.edu.cn/PGB/
 
-LJ Nov.11 2019 
+LJ Jul.24 2020 
 
 ##############################
 
