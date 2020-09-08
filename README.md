@@ -1,6 +1,6 @@
-UPDATE: The Personal Genome Browser service has been moved to http://bioinformatics.hit.edu.cn/PGB/
+UPDATE: The Personal Genome Browser service has been moved to http://genome.hit.edu.cn/PGB/
 
-LJ Jul.24 2020 
+LJ Sep.8 2020 
 
 ##############################
 
